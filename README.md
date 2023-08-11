@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ABF2000 also known as Adam Faber
+- 👋 Hi, I’m Adam Faber, also known as @ABF2000
 - 👀 I’m interested in Programming and Video Games
 - 🌱 I’m currently programming in C# and learning WPF (Windows Presentation Foundation)
           to create applications with a clean GUI
