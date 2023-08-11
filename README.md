@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Adam Faber, also known as @ABF2000
+- 🎓 I'm currently an Undergraduate Computer Science student
 - 👀 I’m interested in Programming and Video Games
 - 🌱 I’m currently programming in C# and learning WPF (Windows Presentation Foundation)
           to create applications with a clean GUI
