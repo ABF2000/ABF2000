@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Adam Faber, also known as @ABF2000
-- 🎓 I'm a third-year undergraduate Computer Science student at the University of Copenhagen
+- 🎓 I'm a second-year postgraduate Computer Science student at the University of Copenhagen
 - 👀 I’m interested in Programming and Video Games
 - 🌱 I’m currently programming in C# and learning WPF (Windows Presentation Foundation)
           to create applications with a clean GUI
 
 - 📫 How to reach me:
-      Email: Adamfaber2000Business@hotmail.com
+      Email: Adamfaber2000@live.dk
       
 
 
